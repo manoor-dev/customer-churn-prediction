@@ -50,10 +50,3 @@ The project includes:
 - Linear Regression R² Score: 0.8763
 
 The project highlighted the impact of class imbalance in churn prediction and demonstrated how machine learning can support customer retention strategies.
-
----
-
-
-Mahnoor Syed
-Business Data Analytics Student
-COMSATS University Islamabad
