@@ -1,4 +1,4 @@
-# Customer Churn Prediction using Machine Learning
+# Customer Churn Prediction 
 
 ## Project Overview
 This project focuses on customer churn prediction using Business Data Analytics and Machine Learning techniques. The analysis was performed on a telecom customer dataset containing 100,000 records and 9 features.
